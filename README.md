@@ -120,6 +120,7 @@ The test conditions will be created based on the business requirements validated
  - [Link to traceability matrix](
 
 ## 3.6  Test metrics
+ - To be able to see the test metrics, you have to select the link below, select the version : "Test Plan OrangeHRM" and modify the time filter to Custom - 09/16/2023 to 11/07/2023
  - [Link to test metrics for OrangeHRM tests](https://itfclasses.atlassian.net/projects/BRT?selectedItem=com.thed.zephyr.je__test-metric-project-level)
 
 ## 3.7  Bugs report
@@ -127,6 +128,3 @@ The test conditions will be created based on the business requirements validated
 
 ## 3.8 Test completion report
  - link to test completion report
-
-## 3.9 Schedule
- - we have 10 days of testing
