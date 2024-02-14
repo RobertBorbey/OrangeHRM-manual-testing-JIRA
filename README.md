@@ -114,10 +114,10 @@ The test conditions will be created based on the business requirements validated
  - [Admin Module OrangeHRM - Add functionality, case scenarios and test cases](https://itfclasses.atlassian.net/browse/BRT-54?atlOrigin=eyJpIjoiZjEwNGEzNDlmYzliNGZiM2FiYTFlNzJjNDUzYjI5Y2QiLCJwIjoiaiJ9)
    
 ## 3.4  Daily test summary report
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) 
+ - [Link to test summary report](https://itfclasses.atlassian.net/projects/BRT?selectedItem=com.thed.zephyr.je__test-summary-project-level)
 
 ## 3.5  Traceability matrix
- - [Link to traceability matrix](
+ - [Link to traceability matrix](https://itfclasses.atlassian.net/projects/BRT?selectedItem=com.thed.zephyr.je__traceability-project-level)
 
 ## 3.6  Test metrics
  - To be able to see the test metrics, you have to select the link below, select the version : "Test Plan OrangeHRM" and modify the time filter to Custom - 09/16/2023 to 11/07/2023
@@ -125,6 +125,3 @@ The test conditions will be created based on the business requirements validated
 
 ## 3.7  Bugs report
  - [Login Page - "Forgot your password? button bug](https://itfclasses.atlassian.net/browse/BRT-14?atlOrigin=eyJpIjoiYTg4MWFjNWNkZmI0NDZkNjliNzUxNDBlODYzM2M4YTQiLCJwIjoiaiJ9)
-
-## 3.8 Test completion report
- - link to test completion report
