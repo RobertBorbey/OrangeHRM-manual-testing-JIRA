@@ -1,4 +1,4 @@
-# JIRA manual testing OrangeHRM website
+# Manual testing OrangeHRM website using JIRA for the tests
 In this repository I will be adding the test cases for the dummy website OrangeHRM, in which I have manually tested through JIRA the login page and the ADD + SEARCH + RESET functionalities from the Admin Module.
 
 # Test Plan OrangeHRM
