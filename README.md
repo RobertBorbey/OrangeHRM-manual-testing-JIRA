@@ -102,25 +102,28 @@ Risks:
 ## 3. Test deliverables
 
 ## 3.1  Test plan 
-- link to test plan
+- [Link to test plan](https://itfclasses.atlassian.net/browse/BRT-9?atlOrigin=eyJpIjoiYmUxNmMyNWZhZTMzNGRlYTk0OWJmNjNhODgzNDBiNDMiLCJwIjoiaiJ9)
 
 ## 3.2  Test conditions 
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
 
 ## 3.3  Test cases
- - link to test cases
-
+ - Links to the test cases
+ - [Login Page OrangeHRM case scenarios and test cases](https://itfclasses.atlassian.net/browse/BRT-10?atlOrigin=eyJpIjoiMTE3MjUwNjU4NmYzNGU2NTgzYzMzZGI5ZGE1Mjg1MjAiLCJwIjoiaiJ9)
+ - [Admin Module OrangeHRM - Search and Reset functionalities, case scenarios and test cases](https://itfclasses.atlassian.net/browse/BRT-25?atlOrigin=eyJpIjoiNTM4NjgyZmZiNGQxNDE2ZjhmMDA2Mzc3NGM2ODhhMmMiLCJwIjoiaiJ9)
+ - [Admin Module OrangeHRM - Add functionality, case scenarios and test cases](https://itfclasses.atlassian.net/browse/BRT-54?atlOrigin=eyJpIjoiZjEwNGEzNDlmYzliNGZiM2FiYTFlNzJjNDUzYjI5Y2QiLCJwIjoiaiJ9)
+   
 ## 3.4  Daily test summary report
  - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) 
 
 ## 3.5  Traceability matrix
- - link to traceability matrix
+ - [Link to traceability matrix](
 
-## 3.6  Test case results
- - link to test case results
+## 3.6  Test metrics
+ - [Link to test metrics for OrangeHRM tests](https://itfclasses.atlassian.net/projects/BRT?selectedItem=com.thed.zephyr.je__test-metric-project-level)
 
 ## 3.7  Bugs report
- - link to bugs report
+ - [Login Page - "Forgot your password? button bug](https://itfclasses.atlassian.net/browse/BRT-14?atlOrigin=eyJpIjoiYTg4MWFjNWNkZmI0NDZkNjliNzUxNDBlODYzM2M4YTQiLCJwIjoiaiJ9)
 
 ## 3.8 Test completion report
  - link to test completion report
