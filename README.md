@@ -46,7 +46,7 @@ https://opensource-demo.orangehrmlive.com/
 
 a) Login functionality as an Admin
 
-b) Admin Module – ADD, RESET, SEARCH functionalities
+b) Admin Module – ADD, RESET and SEARCH functionalities
 
 c) Application functionality from desktop perspective
 
